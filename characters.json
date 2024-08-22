@@ -1,0 +1,1026 @@
+{
+   "Berserker": [
+      {
+         "character": "Berserker",
+         "characterName": "Lightning Bolts",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/KqB14hJ/gh-berserker.png",
+         "backURL": "https://i.ibb.co/H70K4rW/gh-berserker-back.png",
+         "deckURL": "https://i.ibb.co/Bs4nwR2/gh-berserker-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Inox",
+         "locked": "yes",
+         "emoji": "<:classGH_LightningBolts:1074857780361572423>"
+      }
+   ],
+   "Brute": [
+      {
+         "character": "Brute",
+         "characterName": "Brute",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/DGcSws1/gh-brute.png",
+         "backURL": "https://i.ibb.co/dgg9PFJ/gh-brute-back.png",
+         "deckURL": "https://i.ibb.co/7JjdqcF/gh-brute-deck.png",
+         "extraURL": "",
+         "characterNew": "Brawler",
+         "ancestry": "Inox",
+         "locked": "",
+         "emoji": "<:classGH_Brute:1128345447807864883>"
+      }
+   ],
+   "Brawler": [
+      {
+         "character": "Brawler",
+         "characterName": "Brute",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/DGcSws1/gh-brute.png",
+         "backURL": "https://i.ibb.co/dgg9PFJ/gh-brute-back.png",
+         "deckURL": "https://i.ibb.co/7JjdqcF/gh-brute-deck.png",
+         "extraURL": "",
+         "characterNew": "Brawler",
+         "ancestry": "Inox",
+         "locked": "",
+         "emoji": "<:classGH_Brute:1128345447807864883>"
+      }
+   ],
+   "Bladeswarm": [
+      {
+         "character": "Bladeswarm",
+         "characterName": "Swords",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/BBcLvsh/gh-bladeswarm.png",
+         "backURL": "https://i.ibb.co/xGrfgpF/gh-bladeswarm-back.png",
+         "deckURL": "https://i.ibb.co/pQ3FJHh/gh-bladeswarm-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Harrower",
+         "locked": "yes",
+         "emoji": "<:classGH_Bladeswarm:1074852839169470555>"
+      }
+   ],
+   "Beast Tyrant": [
+      {
+         "character": "Beast Tyrant",
+         "characterName": "Two Minis",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/h9f0KjT/gh-beast-tyrant.png",
+         "backURL": "https://i.ibb.co/B4prFHR/gh-beast-tyrant-back.png",
+         "deckURL": "https://i.ibb.co/smy5s8p/gh-beast-tyrant-deck.png",
+         "extraURL": "",
+         "characterNew": "Wildfury",
+         "ancestry": "Vermling",
+         "locked": "yes",
+         "emoji": "<:classGH_TwoMini:1074857822644359228>"
+      }
+   ],
+   "Wildfury": [
+      {
+         "character": "Wildfury",
+         "characterName": "Two Minis",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/h9f0KjT/gh-beast-tyrant.png",
+         "backURL": "https://i.ibb.co/B4prFHR/gh-beast-tyrant-back.png",
+         "deckURL": "https://i.ibb.co/smy5s8p/gh-beast-tyrant-deck.png",
+         "extraURL": "",
+         "characterNew": "Wildfury",
+         "ancestry": "Vermling",
+         "locked": "yes",
+         "emoji": "<:classGH_TwoMini:1074857822644359228>"
+      }
+   ],
+   "Cragheart": [
+      {
+         "character": "Cragheart",
+         "characterName": "Cragheart",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/PQTJ8Vc/gh-cragheart.png",
+         "backURL": "https://i.ibb.co/sJ9zygn/gh-cragheart-back.png",
+         "deckURL": "https://i.ibb.co/L9dQJKM/gh-cragheart-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Savvas",
+         "locked": "",
+         "emoji": "<:classGH_Cragheart:1074857693392687165>"
+      }
+   ],
+   "Doomstalker": [
+      {
+         "character": "Doomstalker",
+         "characterName": "Angry Face",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/9V9k6pT/gh-doomstalker.png",
+         "backURL": "https://i.ibb.co/9nRFBNk/gh-doomstalker-back.png",
+         "deckURL": "https://i.ibb.co/c86yCMW/gh-doomstalker-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Orchid",
+         "locked": "yes",
+         "emoji": "<:classGH_AngryFace:1074857688837673001>"
+      }
+   ],
+   "Elementalist": [
+      {
+         "character": "Elementalist",
+         "characterName": "Triangles",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/2SbyShP/gh-elementalist.png",
+         "backURL": "https://i.ibb.co/Z6dRr8J/gh-elementalist-back.png",
+         "deckURL": "https://i.ibb.co/CmnDGw7/gh-elementalist-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Savvas",
+         "locked": "yes",
+         "emoji": "<:classGH_Triangles:1082106472588124251>"
+      }
+   ],
+   "Mindthief": [
+      {
+         "character": "Mindthief",
+         "characterName": "Mindthief",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/9YqKPNF/gh-mindthief.png",
+         "backURL": "https://i.ibb.co/sQD8w2S/gh-mindthief-back.png",
+         "deckURL": "https://i.ibb.co/V3c23MF/gh-mindthief-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Vermling",
+         "locked": "",
+         "emoji": "<:classGH_Mindthief:1074919590372577290>"
+      }
+   ],
+   "Nightshroud": [
+      {
+         "character": "Nightshroud",
+         "characterName": "Eclipse",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/mTYfmj9/gh-nightshroud.png",
+         "backURL": "https://i.ibb.co/KXHXKBb/gh-nightshroud-back.png",
+         "deckURL": "https://i.ibb.co/Jkpd7wv/gh-nightshroud-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Aesther",
+         "locked": "yes",
+         "emoji": "<:classGH_Eclipse:1074857696190287942>"
+      }
+   ],
+   "Plagueherald": [
+      {
+         "character": "Plagueherald",
+         "characterName": "Squidface",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/nmX8Njp/gh-plagueherald.png",
+         "backURL": "https://i.ibb.co/7VNnGpn/gh-plagueherald-back.png",
+         "deckURL": "https://i.ibb.co/58rfTY8/gh-plagueherald-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Harrower",
+         "locked": "yes",
+         "emoji": "<:classGH_Tentacles:1074857818190000128>"
+      }
+   ],
+   "Quartermaster": [
+      {
+         "character": "Quartermaster",
+         "characterName": "Spears",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/jHm3YH3/gh-quartermaster.png",
+         "backURL": "https://i.ibb.co/vQ8gH9K/gh-quartermaster-back.png",
+         "deckURL": "https://i.ibb.co/QYRbchk/gh-quartermaster-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Valrath",
+         "locked": "yes",
+         "emoji": "<:classGH_ThreeSpears:1074857819129520230>"
+      }
+   ],
+   "Sawbones": [
+      {
+         "character": "Sawbones",
+         "characterName": "Saw",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/PcVRnWs/gh-sawbones.png",
+         "backURL": "https://i.ibb.co/Jr7Cb7X/gh-sawbones-back.png",
+         "deckURL": "https://i.ibb.co/VVpZdZ3/gh-sawbones-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Human",
+         "locked": "yes",
+         "emoji": "<:classGH_Saw:1074857783008182302>"
+      }
+   ],
+   "Scoundrel": [
+      {
+         "character": "Scoundrel",
+         "characterName": "Scoundrel",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/3fPnrw4/gh-scoundrel.png",
+         "backURL": "https://i.ibb.co/0VvPDDb/gh-scoundrel-back.png",
+         "deckURL": "https://i.ibb.co/jknnpHV/gh-scoundrel-deck.png",
+         "extraURL": "",
+         "characterNew": "Silent Knife",
+         "ancestry": "Human",
+         "locked": "",
+         "emoji": "<:classGH_Scoundrel:1074919561230561310>"
+      }
+   ],
+   "Sunkeeper": [
+      {
+         "character": "Sunkeeper",
+         "characterName": "Sun",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/q1w2gKQ/gh-sunkeeper.png",
+         "backURL": "https://i.ibb.co/ZBLzhrF/gh-sunkeeper-back.png",
+         "deckURL": "https://i.ibb.co/nDVkBRv/gh-sunkeeper-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Valrath",
+         "locked": "yes",
+         "emoji": "<:classGH_Sun:1074857783775744042>"
+      }
+   ],
+   "Soothsinger": [
+      {
+         "character": "Soothsinger",
+         "characterName": "Music Note",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/jgjSjVf/gh-soothsinger.png",
+         "backURL": "https://i.ibb.co/CJ7LW9R/gh-soothsinger-back.png",
+         "deckURL": "https://i.ibb.co/BK7RyP0/gh-soothsinger-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Quatryl",
+         "locked": "yes",
+         "emoji": "<:classGH_MusicNote:1074857782064459796>"
+      }
+   ],
+   "Summoner": [
+      {
+         "character": "Summoner",
+         "characterName": "Circles",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/fYS2W3G/gh-summoner.png",
+         "backURL": "https://i.ibb.co/8N4dTWq/gh-summoner-back.png",
+         "deckURL": "https://i.ibb.co/h7jDsQ3/gh-summoner-deck.png",
+         "extraURL": "",
+         "characterNew": "Soultether",
+         "ancestry": "Aesther",
+         "locked": "yes",
+         "emoji": "<:classGH_Circles:1074857691790458922>"
+      }
+   ],
+   "Soultether": [
+      {
+         "character": "Soultether",
+         "characterName": "Circles",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/fYS2W3G/gh-summoner.png",
+         "backURL": "https://i.ibb.co/8N4dTWq/gh-summoner-back.png",
+         "deckURL": "https://i.ibb.co/h7jDsQ3/gh-summoner-deck.png",
+         "extraURL": "",
+         "characterNew": "Soultether",
+         "ancestry": "Aesther",
+         "locked": "yes",
+         "emoji": "<:classGH_Circles:1074857691790458922>"
+      }
+   ],
+   "Spellweaver": [
+      {
+         "character": "Spellweaver",
+         "characterName": "Spellweaver",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/SNFnF5r/gh-spellweaver.png",
+         "backURL": "https://i.ibb.co/ZzXW9Sj/gh-spellweaver-back.png",
+         "deckURL": "https://i.ibb.co/jRyscdH/gh-spellweaver-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Orchid",
+         "locked": "",
+         "emoji": "<:classGH_Spellweaver:1074919522621988874>"
+      }
+   ],
+   "Tinkerer": [
+      {
+         "character": "Tinkerer",
+         "characterName": "Tinkerer",
+         "expansion": "Gloomhaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/C7R9W9f/gh-tinkerer.png",
+         "backURL": "https://i.ibb.co/P61VrzG/gh-tinkerer-back.png",
+         "deckURL": "https://i.ibb.co/2kzx7My/gh-tinkerer-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Quatryl",
+         "locked": "",
+         "emoji": "<:classGH_Tinkerer:1074919502720008192>"
+      }
+   ],
+   "Diviner": [
+      {
+         "character": "Diviner",
+         "characterName": "Diviner",
+         "expansion": "Forgotten Circles",
+         "creator": "Marcel Cwertetschka-Mattasits",
+         "frontURL": "https://i.ibb.co/r53WZQ1/fc-diviner.png",
+         "backURL": "https://i.ibb.co/jWkyP9g/fc-diviner-back.png",
+         "deckURL": "https://i.ibb.co/N625gVX/fc-diviner-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Aesther",
+         "locked": "",
+         "emoji": "<:classGH_Diviner:1082145971674300528>"
+      }
+   ],
+   "Amber Aegis": [
+      {
+         "character": "Amber Aegis",
+         "characterName": "Beetle",
+         "expansion": "Crimson Scales",
+         "creator": "Wilting Moon",
+         "frontURL": "https://i.ibb.co/WxkhFWJ/cs-amber-aegis.png",
+         "backURL": "https://i.ibb.co/Vq8Y025/cs-amber-aegis-back.png",
+         "deckURL": "https://i.ibb.co/5YXFRhq/cs-amber-aegis-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Harrower",
+         "locked": "yes",
+         "emoji": "<:classCust_AmberAegis:1082135120468779068>"
+      }
+   ],
+   "Brightspark": [
+      {
+         "character": "Brightspark",
+         "characterName": "Flask",
+         "expansion": "Crimson Scales",
+         "creator": "Motti Eisenbach",
+         "frontURL": "https://i.ibb.co/zNttp2R/cs-brightspark.png",
+         "backURL": "https://i.ibb.co/ScKh1Vm/cs-brightspark-back.png",
+         "deckURL": "https://i.ibb.co/y5NmRXq/cs-brightspark-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Human",
+         "locked": "yes",
+         "emoji": "<:classCust_Brightspark:1082144314748043324>"
+      }
+   ],
+   "Bombard": [
+      {
+         "character": "Bombard",
+         "characterName": "Target",
+         "expansion": "Crimson Scales",
+         "creator": "Motti Eisenbach",
+         "frontURL": "https://i.ibb.co/QjjJxBZ/cs-bombard.png",
+         "backURL": "https://i.ibb.co/rmN1Sqq/cs-bombard-back.png",
+         "deckURL": "https://i.ibb.co/8jn02mb/cs-bombard-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Quatryl",
+         "locked": "yes",
+         "emoji": "<:classCust_Bombard:1082139426798452816>"
+      }
+   ],
+   "Chainguard": [
+      {
+         "character": "Chainguard",
+         "characterName": "Chained Helmet",
+         "expansion": "Crimson Scales",
+         "creator": "Motti Eisenbach",
+         "frontURL": "https://i.ibb.co/nbyVKHb/cs-chainguard.png",
+         "backURL": "https://i.ibb.co/Jp8hRGG/cs-chainguard-back.png",
+         "deckURL": "https://i.ibb.co/7ktHNC4/cs-chainguard-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Inox",
+         "locked": "yes",
+         "emoji": "<:classCust_Chainguard:1074852930009702450>"
+      }
+   ],
+   "Chieftain": [
+      {
+         "character": "Chieftain",
+         "characterName": "Tusks",
+         "expansion": "Crimson Scales",
+         "creator": "Motti Eisenbach",
+         "frontURL": "https://i.ibb.co/T48B0kT/cs-chieftain.png",
+         "backURL": "https://i.ibb.co/QMygRCf/cs-chieftain-back.png",
+         "deckURL": "https://i.ibb.co/8rt6Jyc/cs-chieftain-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Orchid",
+         "locked": "yes",
+         "emoji": "<:classCust_Chieftain:1074852930613686423>"
+      }
+   ],
+   "Fire Knight": [
+      {
+         "character": "Fire Knight",
+         "characterName": "Ladder Axe",
+         "expansion": "Crimson Scales",
+         "creator": "DISC1PLE",
+         "frontURL": "https://i.ibb.co/DrjwZwR/cs-fire-knight.png",
+         "backURL": "https://i.ibb.co/gDq7dRx/cs-fire-knight-back.png",
+         "deckURL": "https://i.ibb.co/9hxNxJz/cs-fire-knight-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Valrath",
+         "locked": "yes",
+         "emoji": "<:classCust_FireKnight:1082135806371709010>"
+      }
+   ],
+   "Hollowpact": [
+      {
+         "character": "Hollowpact",
+         "characterName": "Vortex",
+         "expansion": "Crimson Scales",
+         "creator": "Dysent",
+         "frontURL": "https://i.ibb.co/gT9QK6d/cs-hollowpact.png",
+         "backURL": "https://i.ibb.co/BZMqPf9/cs-hollowpact-back.png",
+         "deckURL": "https://i.ibb.co/f0NwLNS/cs-hollowpact-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Savvas",
+         "locked": "yes",
+         "emoji": "<:classCust_Hollowpact:1082138554236407828>"
+      }
+   ],
+   "Hierophant": [
+      {
+         "character": "Hierophant",
+         "characterName": "Leaf",
+         "expansion": "Crimson Scales",
+         "creator": "Motti Eisenbach",
+         "frontURL": "https://i.ibb.co/wrYrXXf/cs-hierophant.png",
+         "backURL": "https://i.ibb.co/7nWqnyw/cs-hierophant-back.png",
+         "deckURL": "https://i.ibb.co/VqzvTRJ/cs-hierophant-deck.png",
+         "extraURL": "https://i.ibb.co/dKvZvbx/cs-hierophant-extra.png",
+         "characterNew": "",
+         "ancestry": "Human",
+         "locked": "yes",
+         "emoji": "<:classCust_Hierophant:1074852933604212767>"
+      }
+   ],
+   "Luminary": [
+      {
+         "character": "Luminary",
+         "characterName": "Crescent Sun",
+         "expansion": "Crimson Scales",
+         "creator": "Motti Eisenbach",
+         "frontURL": "https://i.ibb.co/QKWRd9D/cs-luminary.png",
+         "backURL": "https://i.ibb.co/KL7F0Td/cs-luminary-back.png",
+         "deckURL": "https://i.ibb.co/6mF1LJv/cs-luminary-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Lurker",
+         "locked": "yes",
+         "emoji": "<:classCust_Luminary:1082141218500264036>"
+      }
+   ],
+   "Mirefoot": [
+      {
+         "character": "Mirefoot",
+         "characterName": "Sprig",
+         "expansion": "Crimson Scales",
+         "creator": "Quasilocal",
+         "frontURL": "https://i.ibb.co/cc66VXG/cs-mirefoot.png",
+         "backURL": "https://i.ibb.co/GCrNG4p/cs-mirefoot-back.png",
+         "deckURL": "https://i.ibb.co/M9fm7R5/cs-mirefoot-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Quatryl",
+         "locked": "yes",
+         "emoji": "<:classCust_Mirefoot:1074853206351425536>"
+      }
+   ],
+   "Artificer": [
+      {
+         "character": "Artificer",
+         "characterName": "Tools",
+         "expansion": "Crimson Scales",
+         "creator": "GrandDuke",
+         "frontURL": "https://i.ibb.co/GPBdqxJ/cs-artificer.png",
+         "backURL": "https://i.ibb.co/TWfX21X/cs-artificer-back.png",
+         "deckURL": "https://i.ibb.co/jDgF0gn/cs-artificer-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Quatryl",
+         "locked": "yes",
+         "emoji": "<:classCust_Artificer:1074852925978972161>"
+      }
+   ],
+   "Ruinmaw": [
+      {
+         "character": "Ruinmaw",
+         "characterName": "Bleeding Claw",
+         "expansion": "Crimson Scales",
+         "creator": "Yknits & GrandDuke",
+         "frontURL": "https://i.ibb.co/vVSTHL2/cs-ruinmaw.png",
+         "backURL": "https://i.ibb.co/9thx48z/cs-ruinmaw-back.png",
+         "deckURL": "https://i.ibb.co/xm7PL0g/cs-ruinmaw-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Vermling",
+         "locked": "yes",
+         "emoji": "<:classCust_Ruinmaw:1082140228325736501>"
+      }
+   ],
+   "Spirit Caller": [
+      {
+         "character": "Spirit Caller",
+         "characterName": "Flaming Skull",
+         "expansion": "Crimson Scales",
+         "creator": "Motti Eisenbach",
+         "frontURL": "https://i.ibb.co/8BnmYWb/cs-spirit-caller.png",
+         "backURL": "https://i.ibb.co/cDHNxbX/cs-spirit-caller-back.png",
+         "deckURL": "https://i.ibb.co/6wbm24y/cs-spirit-caller-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Vermling",
+         "locked": "yes",
+         "emoji": "<:classCust_SpiritCaller:1082142142593519637>"
+      }
+   ],
+   "Starslinger": [
+      {
+         "character": "Starslinger",
+         "characterName": "Galaxy",
+         "expansion": "Crimson Scales",
+         "creator": "Motti Eisenbach",
+         "frontURL": "https://i.ibb.co/NmWLkSs/cs-starslinger.png",
+         "backURL": "https://i.ibb.co/nkW6qPq/cs-starslinger-back.png",
+         "deckURL": "https://i.ibb.co/K5y1mgG/cs-starslinger-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Aesther",
+         "locked": "yes",
+         "emoji": "<:classCust_Starslinger:1082143093744222238>"
+      }
+   ],
+   "Incarnate": [
+      {
+         "character": "Incarnate",
+         "characterName": "Three Eyes",
+         "expansion": "Trail of Ashes",
+         "creator": "TheJoseph & GrandDuke",
+         "frontURL": "https://i.ibb.co/PTNGcj9/toa-incarnate.png",
+         "backURL": "https://i.ibb.co/VMFYNfH/toa-incarnate-back.png",
+         "deckURL": "https://i.ibb.co/xzXqL2Y/toa-incarnate-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Inox",
+         "locked": "yes",
+         "emoji": "<:classCust_Incarnate2:1082099020341719121>"
+      }
+   ],
+   "Rimehearth": [
+      {
+         "character": "Rimehearth",
+         "characterName": "Ice Meteor",
+         "expansion": "Trail of Ashes",
+         "creator": "NaynArris",
+         "frontURL": "https://i.ibb.co/F4Jb9ZS/toa-rimehearth.png",
+         "backURL": "https://i.ibb.co/dkfLprn/toa-rimehearth-back.png",
+         "deckURL": "https://i.ibb.co/fdMWgtX/toa-rimehearth-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Savvas",
+         "locked": "yes",
+         "emoji": "<:classCust_Rimehearth:1082137154228068352>"
+      }
+   ],
+   "Shardrender": [
+      {
+         "character": "Shardrender",
+         "characterName": "Gemstone",
+         "expansion": "Trail of Ashes",
+         "creator": "Skuzz",
+         "frontURL": "https://i.ibb.co/HdBmxq3/toa-shardrender.png",
+         "backURL": "https://i.ibb.co/7Nh8nYP/toa-shardrender-back.png",
+         "deckURL": "https://i.ibb.co/161dr0S/toa-shardrender-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Orchid",
+         "locked": "yes",
+         "emoji": "<:classCust_Shardrender:1082141645358776330>"
+      }
+   ],
+   "Tempest": [
+      {
+         "character": "Tempest",
+         "characterName": "Lightning Ball",
+         "expansion": "Trail of Ashes",
+         "creator": "DISC1PLE",
+         "frontURL": "https://i.ibb.co/HNDJVGs/toa-tempest.png",
+         "backURL": "https://i.ibb.co/NFKfZBp/toa-tempest-back.png",
+         "deckURL": "https://i.ibb.co/1KNwvm7/toa-tempest-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Orchid",
+         "locked": "yes",
+         "emoji": "<:classCust_Tempest:1082107820633227345>"
+      }
+   ],
+   "Thornreaper": [
+      {
+         "character": "Thornreaper",
+         "characterName": "Spiked Ring",
+         "expansion": "Trail of Ashes",
+         "creator": "Quasilocal",
+         "frontURL": "https://i.ibb.co/LPDWp0M/toa-thornreaper.png",
+         "backURL": "https://i.ibb.co/PQnp59K/toa-thornreaper-back.png",
+         "deckURL": "https://i.ibb.co/FH2BKP5/toa-thornreaper-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Orchid",
+         "locked": "yes",
+         "emoji": "<:classCust_Thornreaper:1082143688135819275>"
+      }
+   ],
+   "Vanquisher": [
+      {
+         "character": "Vanquisher",
+         "characterName": "Twin Blades",
+         "expansion": "Trail of Ashes",
+         "creator": "Motti Eisenbach",
+         "frontURL": "https://i.ibb.co/89GkRj1/toa-vanquisher.png",
+         "backURL": "https://i.ibb.co/8MWh4FN/toa-vanquisher-back.png",
+         "deckURL": "https://i.ibb.co/G2shBNn/toa-vanquisher-deck.png",
+         "extraURL": "https://i.ibb.co/hyzVqmx/toa-vanquisher-extra.png",
+         "characterNew": "",
+         "ancestry": "Valrath",
+         "locked": "yes",
+         "emoji": "<:classCust_Vanquisher:1082145083702394980>"
+      }
+   ],
+   "CORE": [
+      {
+         "character": "CORE",
+         "characterName": "CORE",
+         "expansion": "CCUG",
+         "creator": "dhauge",
+         "frontURL": "https://i.ibb.co/Xb5498z/ccug-core.png",
+         "backURL": "https://i.ibb.co/cFmSKMq/ccug-core-back.png",
+         "deckURL": "https://i.ibb.co/sCpNHr6/ccug-core-deck.png",
+         "extraURL": "https://i.ibb.co/f1Xd5Zh/ccug-core-extra.png",
+         "characterNew": "",
+         "ancestry": "Unfettered",
+         "locked": "",
+         "emoji": "<:classCust_CORE:1101339730437734460>"
+      }
+   ],
+   "Demolitionist": [
+      {
+         "character": "Demolitionist",
+         "characterName": "Demolitionist",
+         "expansion": "Jaws of the Lion",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/dPt6nxg/jotl-demolitionist.png",
+         "backURL": "https://i.ibb.co/Q9zmQPs/jotl-demolitionist-back.png",
+         "deckURL": "https://i.ibb.co/2jskfJg/jotl-demolitionist-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Quatryl",
+         "locked": "",
+         "emoji": "<:classJotL_Demolitionist:1074852840146747504>"
+      }
+   ],
+   "Hatchet": [
+      {
+         "character": "Hatchet",
+         "characterName": "Hatchet",
+         "expansion": "Jaws of the Lion",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/s3md6zj/jotl-hatchet.png",
+         "backURL": "https://i.ibb.co/H2w67fZ/jotl-hatchet-back.png",
+         "deckURL": "https://i.ibb.co/KW5wKh6/jotl-hatchet-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Inox",
+         "locked": "",
+         "emoji": "<:classJotL_Hatchet:1074852841874804766>"
+      }
+   ],
+   "Red Guard": [
+      {
+         "character": "Red Guard",
+         "characterName": "Red Guard",
+         "expansion": "Jaws of the Lion",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/MpKvrCw/jotl-red-guard.png",
+         "backURL": "https://i.ibb.co/3dyZXWq/jotl-red-guard-back.png",
+         "deckURL": "https://i.ibb.co/S3fcvqh/jotl-red-guard-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Valrath",
+         "locked": "",
+         "emoji": "<:classJotL_RedGuard:1074852842889805864>"
+      }
+   ],
+   "Voidwarden": [
+      {
+         "character": "Voidwarden",
+         "characterName": "Voidwarden",
+         "expansion": "Jaws of the Lion",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/YkNsGJM/jotl-voidwarden.png",
+         "backURL": "https://i.ibb.co/hWzK2Xy/jotl-voidwarden-back.png",
+         "deckURL": "https://i.ibb.co/x1GQ4xW/jotl-voidwarden-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Human",
+         "locked": "",
+         "emoji": "<:classJotL_Voidwarden:1074852843959361656>"
+      }
+   ],
+   "Blinkblade": [
+      {
+         "character": "Blinkblade",
+         "characterName": "Blinkblade",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/vdXG0XY/fh-blinkblade.png",
+         "backURL": "https://i.ibb.co/Mg3q56j/fh-blinkblade-back.png",
+         "deckURL": "https://i.ibb.co/2gF12gk/fh-blinkblade-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Quatryl",
+         "locked": "",
+         "emoji": "<:classFH_Blinkblade:1018247783930658856>"
+      }
+   ],
+   "Banner Spear": [
+      {
+         "character": "Banner Spear",
+         "characterName": "Banner Spear",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/ZJbfnG7/fh-banner-spear.png",
+         "backURL": "https://i.ibb.co/7VTy1LS/fh-banner-spear-back.png",
+         "deckURL": "https://i.ibb.co/rfPW881/fh-banner-spear-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Human",
+         "locked": "",
+         "emoji": "<:classFH_BannerSpear:1018247765047906305>"
+      }
+   ],
+   "Boneshaper": [
+      {
+         "character": "Boneshaper",
+         "characterName": "Boneshaper",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/mvzKh4H/fh-boneshaper.png",
+         "backURL": "https://i.ibb.co/ZdjPC7b/fh-boneshaper-back.png",
+         "deckURL": "https://i.ibb.co/yfNCpyr/fh-boneshaper-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Aesther",
+         "locked": "",
+         "emoji": "<:classFH_Boneshaper:1018247797427933244>"
+      }
+   ],
+   "Crashing Tide": [
+      {
+         "character": "Crashing Tide",
+         "characterName": "Coral",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/SBnZ02f/fh-crashing-tide.png",
+         "backURL": "https://i.ibb.co/kgmXBLN/fh-crashing-tide-back.png",
+         "deckURL": "https://i.ibb.co/55p2wzf/fh-crashing-tide-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Lurker",
+         "locked": "yes",
+         "emoji": "<:classFH_coral:1077247306052665465>"
+      }
+   ],
+   "Drifter": [
+      {
+         "character": "Drifter",
+         "characterName": "Drifter",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/2trynjt/fh-drifter.png",
+         "backURL": "https://i.ibb.co/XF4gJFV/fh-drifter-back.png",
+         "deckURL": "https://i.ibb.co/VxG9NdW/fh-drifter-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Inox",
+         "locked": "",
+         "emoji": "<:classFH_Drifter:1018247824044986428>"
+      }
+   ],
+   "Deepwraith": [
+      {
+         "character": "Deepwraith",
+         "characterName": "Kelp",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/R0stYHk/fh-deepwraith.png",
+         "backURL": "https://i.ibb.co/X7GFq35/fh-deepwraith-back.png",
+         "deckURL": "https://i.ibb.co/YWhZmhs/fh-deepwraith-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Lurker",
+         "locked": "yes",
+         "emoji": "<:classFH_kelp:1077247309475225750>"
+      }
+   ],
+   "Deathwalker": [
+      {
+         "character": "Deathwalker",
+         "characterName": "Deathwalker",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/c3qCHtt/fh-deathwalker.png",
+         "backURL": "https://i.ibb.co/Kxs9tnx/fh-deathwalker-back.png",
+         "deckURL": "https://i.ibb.co/XW37xkq/fh-deathwalker-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Valrath",
+         "locked": "",
+         "emoji": "<:classFH_Deathwalker:1018247811214614648>"
+      }
+   ],
+   "Frozen Fist": [
+      {
+         "character": "Frozen Fist",
+         "characterName": "Fist",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/yqWqFvQ/fh-frozen-fist.png",
+         "backURL": "https://i.ibb.co/w00gmxw/fh-frozen-fist-back.png",
+         "deckURL": "https://i.ibb.co/NjTMtHc/fh-frozen-fist-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Algox",
+         "locked": "yes",
+         "emoji": "<:classFH_fist:1077247308460212315>"
+      }
+   ],
+   "Geminate": [
+      {
+         "character": "Geminate",
+         "characterName": "Geminate",
+         "expansion": "Frosthaven",
+         "creator": "Marcel Cwertetschka-Mattasits",
+         "frontURL": "https://i.ibb.co/4tstjVL/fh-geminate.png",
+         "backURL": "https://i.ibb.co/ncpDYWB/fh-geminate-back.png",
+         "deckURL": "https://i.ibb.co/gMGwcqv/fh-geminate-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Harrower",
+         "locked": "",
+         "emoji": "<:classFH_Geminate:1018247836216852540>"
+      }
+   ],
+   "HIVE": [
+      {
+         "character": "HIVE",
+         "characterName": "Prism",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/k19DG0N/fh-hive.png",
+         "backURL": "https://i.ibb.co/T48p67G/fh-hive-back.png",
+         "deckURL": "https://i.ibb.co/0CKpjNJ/fh-hive-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Unfettered",
+         "locked": "yes",
+         "emoji": "<:classFH_prism:1077247312176369814>"
+      }
+   ],
+   "Infuser": [
+      {
+         "character": "Infuser",
+         "characterName": "Astral",
+         "expansion": "Frosthaven",
+         "creator": "Marcel Cwertetschka-Mattasits",
+         "frontURL": "https://i.ibb.co/S5DJLKJ/fh-infuser.png",
+         "backURL": "https://i.ibb.co/RCcZZ7J/fh-infuser-back.png",
+         "deckURL": "https://i.ibb.co/J36YPCH/fh-infuser-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Orchid",
+         "locked": "yes",
+         "emoji": "<:classFH_astral:1077247303959728189>"
+      }
+   ],
+   "Metal Mosaic": [
+      {
+         "character": "Metal Mosaic",
+         "characterName": "Drill",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/JKdn0yD/fh-metal-mosaic.png",
+         "backURL": "https://i.ibb.co/dJcmQzb/fh-metal-mosaic-back.png",
+         "deckURL": "https://i.ibb.co/tXNJS39/fh-metal-mosaic-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Unfettered",
+         "locked": "yes",
+         "emoji": "<:classFH_drill:1077247307357097994>"
+      }
+   ],
+   "Pain Conduit": [
+      {
+         "character": "Pain Conduit",
+         "characterName": "Shackles",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/JpfScDW/fh-pain-conduit.png",
+         "backURL": "https://i.ibb.co/FD0WVP7/fh-pain-conduit-back.png",
+         "deckURL": "https://i.ibb.co/sWynGGg/fh-pain-conduit-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Aesther",
+         "locked": "yes",
+         "emoji": "<:classFH_shackles:1077247313552089180>"
+      }
+   ],
+   "Pyroclast": [
+      {
+         "character": "Pyroclast",
+         "characterName": "Meteor",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/hmCR0Ph/fh-pyroclast.png",
+         "backURL": "https://i.ibb.co/GTxCwpx/fh-pyroclast-back.png",
+         "deckURL": "https://i.ibb.co/CsG2WXG/fh-pyroclast-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Savvas",
+         "locked": "yes",
+         "emoji": "<:classFH_meteor:1077247310976782428>"
+      }
+   ],
+   "Snowdancer": [
+      {
+         "character": "Snowdancer",
+         "characterName": "Snowflake",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/6rvb3jW/fh-snowdancer.png",
+         "backURL": "https://i.ibb.co/4Wk98sx/fh-snowdancer-back.png",
+         "deckURL": "https://i.ibb.co/DtQzHjQ/fh-snowdancer-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Algox",
+         "locked": "yes",
+         "emoji": "<:classFH_snowflake:1077247315766689904>"
+      }
+   ],
+   "Shattersong": [
+      {
+         "character": "Shattersong",
+         "characterName": "Shards",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/KKzFW8X/fh-shattersong.png",
+         "backURL": "https://i.ibb.co/YXMN3kw/fh-shattersong-back.png",
+         "deckURL": "https://i.ibb.co/0Kq5WMg/fh-shattersong-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Savvas",
+         "locked": "yes",
+         "emoji": "<:classFH_shards:1082147023228256368>"
+      }
+   ],
+   "Trapper": [
+      {
+         "character": "Trapper",
+         "characterName": "Trap",
+         "expansion": "Frosthaven",
+         "creator": "Isaac Childres",
+         "frontURL": "https://i.ibb.co/0h6qdSB/fh-trapper.png",
+         "backURL": "https://i.ibb.co/dtc5k24/fh-trapper-back.png",
+         "deckURL": "https://i.ibb.co/0C3RV6R/fh-trapper-deck.png",
+         "extraURL": "",
+         "characterNew": "",
+         "ancestry": "Vermling",
+         "locked": "yes",
+         "emoji": "<:classFH_trap:1077247370640773121>"
+      }
+   ]
+}
